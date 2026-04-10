@@ -1,4 +1,4 @@
-# cc-resources
+# Claude Code Resources
 
 Battle-tested prompts, workflows, and patterns for building real SaaS with Claude Code.
 
